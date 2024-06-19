@@ -1,9 +1,12 @@
 {
-	"name": "taurealworld",
-	"main": "index.js",
-	"dependencies": {
-		"cross-spawn": "7.0.3",
-		"deepmerge": "4.3.1",
-		"js-yaml": "4.1.0"
-	}
+  "name": "taurealworld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Laegel <valentin.chouaf@laposte.net>",
+  "license": "MIT",
+  "dependencies": {
+    "cross-spawn": "^7.0.1",
+    "deepmerge": "^4.2.2",
+    "js-yaml": "^3.13.1"
+  }
 }
