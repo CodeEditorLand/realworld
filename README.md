@@ -24,7 +24,7 @@ yarn install
 npm install
 ```
 
-## Usage
+## 🛠️ Usage
 
 `node build {{app.repo}}` This will apply the pipeline on a single application
 from apps.yaml. Copy/paste a `repo` property from the wanted application and let
