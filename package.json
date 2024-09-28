@@ -3,9 +3,9 @@
 	"main": "index.js",
 	"dependencies": {
 <<<<<<< HEAD
-		"cross-spawn": "^7.0.1",
-		"deepmerge": "^4.2.2",
-		"js-yaml": "^3.13.1"
+		"cross-spawn": "7.0.1",
+		"deepmerge": "4.2.2",
+		"js-yaml": "3.13.1"
 	}
 =======
 		"cross-spawn": "7.0.3",
