@@ -1,3 +1,3 @@
-const fs = require('fs')
+const fs = require("fs");
 
-fs.writeFileSync('./package.json', '{}')
+fs.writeFileSync("./package.json", "{}");
