@@ -1,9 +1,9 @@
 {
-	"name": "taurealworld",
-	"main": "index.js",
 	"dependencies": {
 		"cross-spawn": "7.0.6",
 		"deepmerge": "4.3.1",
 		"js-yaml": "4.1.0"
-	}
+	},
+	"main": "index.js",
+	"name": "taurealworld"
 }
