@@ -4,6 +4,7 @@
 		"deepmerge": "4.3.1",
 		"js-yaml": "4.1.0"
 	},
+	"devDependencies": {},
 	"main": "index.js",
 	"name": "taurealworld"
 }
